@@ -114,6 +114,30 @@ DERP.
   </td>
 </tr>
 
+
+<tr>
+  <td>Name Spaces</td>
+  <td>
+{% highlight groovy %}
+package io.sbrady.people
+@Mixin(Talk)
+class Person {}
+{% endhighlight %}
+   </td>
+  <td>
+    {% highlight ruby %}
+DERP. module namespaces  
+    {% endhighlight %}  
+  </td>
+  <td>
+    {% highlight java %}
+package io.sbrady.people
+    {% endhighlight %}  
+  </td>
+</tr>
+
+
+
 <tr>
   <td>Dynamic Typing</td>
   <td>
@@ -289,17 +313,17 @@ DERP.
   <td>Score</td>
   <td>
 {% highlight groovy %}
-9
+10/10
 {% endhighlight %}
    </td>
   <td>
     {% highlight ruby %}
-7
+7/10
     {% endhighlight %}  
   </td>
   <td>
     {% highlight java %}
-5
+6/10
     {% endhighlight %}  
   </td>
 </tr>
