@@ -9,7 +9,7 @@ I had spent a good deal of time working with Java, and some point around 2007 I 
 development Rails apps. I really enjoy the dynamic nature of Ruby. However I have come to miss the expressiveness of
 static typing. Recently I did a little work on a Grails app and found that Groovy seemed to be doing everything I had
 ever wanted. So I put together his language feature fight card below.
-As you can Groovy comes up on top for my favourite language features.
+As you can see Groovy comes up on top for my favourite language features.
  
 
 <table>
