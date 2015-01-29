@@ -23,7 +23,9 @@ pull request model, as the integration time is put off for days.
 
 The above issues could be dealt with, via other communication channels, standup and simply talking to one another.
 Also If developer A knew that developer B was working on a similar area of code, they could do some "Promiscuous Integration",
-in DVCS and pull and push to each other branches.
+in DVCS and pull and push to each other branches. I have never really seen "Promiscuous Integration" in practice. What
+I seen is that when a developer learns that another developer is working on the same code, they will drop it, back off, and
+do something else, probably something with less priority.
 
 **Continuous integration Problems**
 
@@ -46,7 +48,7 @@ PR from `master` to `staging` etc. This worked reasonably well, although most co
 
 **Closing**
 
-Clearly Pull requests and feature branch are a fantastic. Pull requests have changed the face of open source
+Clearly Pull requests and feature branch are fantastic. Pull requests have changed the face of open source
  software, thank you github. However for a software team working on proprietary software. Please default to Continuous
  Integration and use feature branches when necessary. 
  
