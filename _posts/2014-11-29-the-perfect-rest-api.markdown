@@ -32,7 +32,7 @@ You can see some of the road blocks I ran into:
 * [incorrect self links](https://jira.grails.org/browse/GRAILS-11857)
 * [Customize Link Rendering type with HAL in Grails?](http://stackoverflow.com/questions/27328804/how-to-customize-link-rendering-type-with-hal-in-grails)
 
-You can see how far I haven gotten: [perfect-rest-api](https://github.com/sbrady/perfect-rest-api). One interesting thing I found along the way is a nice way to setup restful routes in grails. I will put up a gist for it.
+You can see how far I haven gotten: [perfect-rest-api](https://github.com/sbrady/perfect-rest-api). One interesting thing I found along the way is a nice way to setup restful routes in grails. [Here is a gist](https://gist.github.com/sbrady/35069a3d614179b1ddbc).
 
 Going forward I'm going to switch to trying out Rails with [Roar](https://github.com/apotonick/roar-rails)
 
