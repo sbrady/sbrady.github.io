@@ -9,7 +9,7 @@ I recently read that the classic FizzBuzz is still often used in job interviews.
 exactly what, the "FizzBuzz" problem was. It does seems like a reasonable way to gauge if a developer has some knowledge 
 of basic control structures and operations etc. So played with it a bit. When I compared my solution too others,
 I realised that I naturally attempted to apply [Domain-driven design](http://en.wikipedia.org/wiki/Domain-driven_design) and
-[SOLID](http://en.wikipedia.org/wiki/Domain-driven_design). (see below)
+[SOLID](http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29). (see below)
 {% gist sbrady/cc4d973346627b804f2c 1standard_fizzBuzz.go %}
 Here I have functions such as `getFizz` etc in attempt to use the same language, as was given. Also I know I could have a
 multiple of 15 to catch the case when it is a multiple of 3 and 5. I chose not to do this as the language of the business
