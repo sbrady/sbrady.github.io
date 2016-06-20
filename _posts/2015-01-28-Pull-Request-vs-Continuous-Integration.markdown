@@ -24,7 +24,7 @@ pull request model, as the integration time is put off for days.
 The above issues could be dealt with, via other communication channels, standup and simply talking to one another.
 Also If developer A knew that developer B was working on a similar area of code, they could do some "Promiscuous Integration",
 in DVCS and pull and push to each other branches. I have never really seen "Promiscuous Integration" in practice. What
-I seen is that when a developer learns that another developer is working on the same code, they will drop it, back off, and
+I have seen, is that when a developer learns that another developer is working on the same code, they will drop it, back off, and
 do something else, probably something with less priority.
 
 **Continuous integration Problems**
