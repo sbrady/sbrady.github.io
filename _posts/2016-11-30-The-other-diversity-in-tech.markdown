@@ -42,6 +42,6 @@ or even worse as "Javascript Jedi", "Ruby ninja" etc.
 My advise would be to focus on the principles and practices of the engineers, 
 rather than the specific tech stacks and languages. 
 For example, the tech screen I do, I let the candidate use whatever web framework they are most comfortable with.
-This way we can focus on, how would you put a web app together. And added bonus I might be to learn something too!
+This way we can focus on, how would you put a web app together. And added bonus I might be able to learn something too!
 
 
